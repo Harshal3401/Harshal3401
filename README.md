@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Harshal3401
+- 👀 I’m interested in Data Analyst/Data scientist...
+- 🌱 I’m currently learning Airtifical Intelligence ...
+- 📫 conatct with me by this mail harshalb003gmail.com...
+
+<!---
+Harshal3401/Harshal3401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
